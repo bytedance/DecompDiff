@@ -1,0 +1,15 @@
+dataset:
+  name: pdbbind
+  path: ./data/PDBbind_v2020
+  split: refined
+
+alphaspace:
+  beta_cluster_dist: 1.6
+  contact_cutoff: 1.6
+  pocket_cluster_dist: 6.0  # 4.7
+
+pocket:
+#  protein_ext_method: v1
+#  protein_radius: 6
+  protein_ext_method: submol_radius
+  protein_radius: 10
