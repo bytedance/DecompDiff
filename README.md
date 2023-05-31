@@ -90,22 +90,6 @@ python scripts/evaluate_mol_from_meta_full.py $SAMPLE_OUT_DIR \
 | TargetDiff | -6.30               | -6.83             | -7.91              | 59.1%                  | 0.48         | 0.58        | 10.5%                 |
 | Ours       | -6.04               | **-7.09**         | **-8.43**          | **71.0%**              | 0.43         | 0.60        | **24.5%**             |
 
-[//]: # (## Contributing)
-
-[//]: # ()
-[//]: # (This code repository is for double-blind paper review only.)
-
-[//]: # ()
-[//]: # (## Contribution)
-
-[//]: # ()
-[//]: # (Please check [Contributing]&#40;CONTRIBUTING.md&#41; for more details.)
-
-[//]: # ()
-[//]: # (## Code of Conduct)
-
-[//]: # ()
-[//]: # (Please check [Code of Conduct]&#40;CODE_OF_CONDUCT.md&#41; for more details.)
 
 ## Security
 
